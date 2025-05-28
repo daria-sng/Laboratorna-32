@@ -1,0 +1,12 @@
+2 кемпінг: 
+Назва: Camping Sonnenland Lutzmannsburg
+Місце розташування: Austria
+Вартість 1 доби перебування в € : 32
+4 кемпінг: 
+Назва: Camping Murinsel
+Місце розташування: Austria
+Вартість 1 доби перебування в € : 30
+6 кемпінг: 
+Назва: Thermenland Camping Bad Waltersdorf
+Місце розташування: Austria
+Вартість 1 доби перебування в € : 33
